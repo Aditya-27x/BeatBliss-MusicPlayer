@@ -6,6 +6,9 @@
 
 Beat Bliss is a cutting-edge music player web application designed to provide users with a seamless and enjoyable music listening experience. Our goal is to combine the best of music with a user-friendly interface, creating a place where beats truly meet bliss.
 
+## Preview
+<img src="/BeatBliss-preview.png">
+
 ## Features
 
 - **User-friendly Interface:** Intuitive and easy-to-navigate design.
