@@ -1,5 +1,4 @@
-# Note - Js may not work properly on a local server, if so, please make changes to your JavaScript. !! 
--Adit
+
 
 # <img src="/img/logo.svg" alt="beatbliss-logo">
 
